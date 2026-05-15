@@ -213,6 +213,8 @@ Feel free to contribute new educational and ethical search queries, improvements
 
 ## Login & Admin Panels
 
+```
+```
 `151. site:example.com admin`  
 `152. intitle:"index of" admin`  
 `153. inurl:admin`  
