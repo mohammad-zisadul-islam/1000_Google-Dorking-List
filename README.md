@@ -213,7 +213,7 @@ Feel free to contribute new educational and ethical search queries, improvements
 
 ## Login & Admin Panels
 
-```
+---
 
 `151. site:example.com admin`  
 `152. intitle:"index of" admin`  
@@ -370,6 +370,8 @@ Feel free to contribute new educational and ethical search queries, improvements
 
 ## Open Directories
 
+---
+
 `301. site:example.com backup`  
 `302. intitle:"index of" backup`  
 `303. inurl:backup`  
@@ -524,6 +526,8 @@ Feel free to contribute new educational and ethical search queries, improvements
 ---
 
 ## Sensitive Files
+
+---
 
 `451. site:example.com .env`  
 `452. intitle:"index of" .env`  
@@ -680,6 +684,8 @@ Feel free to contribute new educational and ethical search queries, improvements
 
 ## Database Errors
 
+---
+
 `601. site:example.com mysql_fetch_array()`  
 `602. intitle:"index of" mysql_fetch_array()`  
 `603. inurl:mysql_fetch_array()`  
@@ -804,6 +810,8 @@ Feel free to contribute new educational and ethical search queries, improvements
 ---
 
 ## GitHub Recon
+
+---
 
 `721. site:example.com API_KEY`  
 `722. intitle:"index of" API_KEY`  
@@ -930,6 +938,8 @@ Feel free to contribute new educational and ethical search queries, improvements
 
 ## CCTV & Cameras
 
+---
+
 `841. site:example.com view/view.shtml`  
 `842. intitle:"index of" view/view.shtml`  
 `843. inurl:view/view.shtml`  
@@ -1025,6 +1035,9 @@ Feel free to contribute new educational and ethical search queries, improvements
 
 ## OSINT & Data Exposure
 
+---
+
+
 `931. site:example.com confidential`  
 `932. intitle:"index of" confidential`  
 `933. inurl:confidential`  
@@ -1109,7 +1122,7 @@ These queries are shared strictly for:
 - OSINT research
 - Cybersecurity awareness
 
-Do not use these techniques against systems you do not own or do not have permission to test.
+> Do not use these techniques against systems you do not own or do not have permission to test.
 
 ---
 
