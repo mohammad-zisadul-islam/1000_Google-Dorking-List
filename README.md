@@ -1128,4 +1128,4 @@ These queries are shared strictly for:
 
 # Author
 
-Curated and organized for the cybersecurity community.
+Curated and organized for the MOHAMMAD ZISADUL ISLAM | SOC ENGGINRE | SOC Analytis L1 | Jr.Penetration Tester | 
